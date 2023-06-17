@@ -6,8 +6,10 @@
 ---
 
 ### Introduction
-My name is Jaehyeon Lee. 
+My name is Jaehyeon Lee.
+
 I am an undergraduate studying Computer Science & Engineering at POSTECH. 
+
 I am a member of PoApper and also a General Manager Reporter(Culture & Social Department) for POSTECH TIMES.
 
 ### Tech Stack
