@@ -1,6 +1,6 @@
 #### Hi! I'm Jaehyeon Lee. 👋
 
-
+##Problem Solving
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tps6595)](https://solved.ac/tps6595)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=tps6595&theme=cold)
 ---
@@ -13,10 +13,18 @@ I am a member of PoApper and also a General Manager Reporter(Culture & Social De
 ### Tech Stack
 ##Frontend
 
-##Programming Language
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>
+
+##Programming Language(Studying)
+
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyPy-193440?style=flat-square&logo=pypy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jddjk)](https://github.com/jddjk/github-readme-stats)
-
 
 ### Project
 I'm trying to make an image processing program or a function graphic program during the summer vacation.
