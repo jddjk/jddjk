@@ -2,10 +2,10 @@
 
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tps6595)](https://solved.ac/tps6595)
-<img src="http://mazandi.herokuapp.com/api?handle={tps6595}&theme=warm"/>
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=tps6595&theme=cold)
 ---
 
-### 소개
+### Introduction
 My name is Jaehyeon Lee. 
 I am an undergraduate studying Computer Science & Engineering at POSTECH. 
 I am a member of PoApper and also a General Manager Reporter(Culture & Social Department) for POSTECH TIMES.
