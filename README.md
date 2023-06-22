@@ -36,7 +36,4 @@ tps6595@postech.ac.kr
 
 ---
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tps6595)](https://solved.ac/tps6595)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=tps6595&theme=cold)
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjddjk%2Fhit-counter&count_bg=%2316CDDE&title_bg=%234A4B2C&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
