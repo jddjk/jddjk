@@ -23,7 +23,7 @@ Programming Language(Studying)
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jddjk)](https://github.com/jddjk/github-readme-stats)
+[![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?)username=jddjk)](https://github.com/jddjk/github-readme-stats)
 
 ### Project
 I'm trying to make an image processing program or a function graphic program during the summer vacation.
