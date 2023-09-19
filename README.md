@@ -7,6 +7,8 @@ My name is Jaehyeon Lee.
 
 I am an undergraduate studying Computer Science & Engineering at POSTECH. 
 
+I am a club president of PoApper(POSTECH Developer Network) and also a General Manager Reporter(Culture & Social Department) for POSTECH TIMES.
+
 ### Tech Stack
 Frontend
 
@@ -23,7 +25,7 @@ Programming Language(Studying)
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jddjk)](https://github.com/jddjk/github-readme-stats)
 
 ### Project
-I'm trying to make an image processing program or a function graphic program during the summer vacation.
+---
 
 ### Blog
 In production..
