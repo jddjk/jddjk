@@ -7,7 +7,7 @@ My name is Jaehyeon Lee.
 
 I am an undergraduate studying Computer Science & Engineering at POSTECH. 
 
-I am a club president of PoApper(POSTECH Developer Network) and also a General Manager Reporter(Culture & Social Department) for POSTECH TIMES.
+I am a former President of PoApper (POSTECH Developer Network) and also the Editor-in-Chief and Reporter for POSTECH TIMES(Korean).
 
 ### Tech Stack
 Frontend
