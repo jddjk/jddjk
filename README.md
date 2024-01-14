@@ -9,19 +9,6 @@ I am an undergraduate studying Computer Science & Engineering at POSTECH.
 
 I am a former President of PoApper (POSTECH Developer Network) and also the Editor-in-Chief and Reporter for POSTECH TIMES(Korean).
 
-### Tech Stack
-Frontend
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>
-
-Programming Language(Studying)
-
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyPy-193440?style=flat-square&logo=pypy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jddjk)](https://github.com/jddjk/github-readme-stats)
 
 ### Project
