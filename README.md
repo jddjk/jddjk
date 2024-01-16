@@ -9,8 +9,6 @@ I am an undergraduate studying Computer Science & Engineering at POSTECH.
 
 I am a former President of PoApper (POSTECH Developer Network) and also the Editor-in-Chief and Reporter for POSTECH TIMES(Korean).
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jddjk)](https://github.com/jddjk/github-readme-stats)
-
 ### Project
 ---
 
